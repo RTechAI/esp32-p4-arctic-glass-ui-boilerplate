@@ -1,3 +1,5 @@
+![Uploading Splash arctic glass boilerplate.png…]()
+![Uploading Splash arctic glass boilerplate.png…]()
 # ForgeUI One Boiler Plate
 
 **Hardware-proven single-page LVGL v9 UI boilerplate for ESP32-P4 touchscreen projects.**
